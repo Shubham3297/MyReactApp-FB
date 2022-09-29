@@ -1,0 +1,46 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "name": "Kumar",
+      "address": "Pune",
+      "contact": 7777777777
+    },
+    {
+      "id": 102,
+      "name": "Dipali",
+      "address": "Mumbai",
+      "contact": 22222222222
+    },
+    {
+      "name": "Shubhaam",
+      "address": "Pune",
+      "contact": "54324",
+      "id": 106
+    },
+    {
+      "name": "Dipali",
+      "address": "Gowa",
+      "contact": "54324",
+      "id": 107
+    },
+    {
+      "name": "Rani",
+      "address": "Solapur",
+      "contact": "54324",
+      "id": 109
+    },
+    {
+      "name": "Kajal",
+      "address": "Warje",
+      "contact": "54324",
+      "id": 110
+    },
+    {
+      "name": "Dipali",
+      "address": "Hydrabad",
+      "contact": "54324",
+      "id": 111
+    }
+  ]
+}

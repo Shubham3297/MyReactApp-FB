@@ -1,0 +1,18 @@
+
+h5{
+    border: 2px solid royalblue;
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.txtDanger{
+    color: red;
+    /* text-decoration: underline; */
+}
+
+.txtSuccess{
+color: green;
+/* text-decoration: overline; */
+}

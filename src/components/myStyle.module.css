@@ -1,0 +1,8 @@
+
+.myTitle:hover{
+    color: seagreen;
+    background-color: silver;
+    text-transform:uppercase ;
+    font-size: 25px;
+    font-family: fantasy;
+}
